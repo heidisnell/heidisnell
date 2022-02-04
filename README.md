@@ -1,4 +1,4 @@
-### Hey I'm Heidi!
+### :octocat: Hey I'm Heidi!
 
 I'm a Lab Automation Engineer looking to get more involved in open source projects. I am eager to learn new technologies and solve hard problems.
 
