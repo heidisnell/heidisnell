@@ -4,6 +4,6 @@
 
 <p>I have professional experience with JavaScript/CSS/HTML and Java, and casual experience with TypeScript/React/Node.js.</p>
 
-<p>My more recent work is over on Bitbucket and is mostly Java.</p>
+<p>My most recent work is over on Bitbucket.</p>
 
 <p>Add me on <a href="https://www.linkedin.com/in/heidi-m-snell/">LinkedIn</a>.</p>
